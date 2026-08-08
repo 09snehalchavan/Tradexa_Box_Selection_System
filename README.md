@@ -179,3 +179,25 @@ The project was verified using:
 - Django Admin
 - REST API requests
 - Automated tests
+
+## What I Learned
+
+### 1. Django
+
+* I understood the Django project structure.
+* I learned how to connect the model, URL, and view files with each other.
+
+### 2. Box Selection Logic
+
+* I learned how to compare product dimensions and weight with the box dimensions and weight capacity.
+* I understood what makes a box suitable for an order.
+
+### 3. API
+
+* I understood the flow from creating an order to getting the box recommendation.
+* I learned how to structure API requests and responses.
+
+### 4. Testing
+
+* I learned how to test different cases and verify whether the box selection logic works correctly.
+* I understood the importance of testing different conditions and possible failures.
